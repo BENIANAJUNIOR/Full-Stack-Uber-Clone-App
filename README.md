@@ -1,8 +1,11 @@
 <div align="center">
   <br />
     <a href="https://github.com/BENIANAJUNIOR/Full-Stack-Uber-Clone-App/edit/main/README.md" target="_blank">
-      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
+      <img src="![Screenshot 2025-03-27 221756](https://github.com/user-attachments/assets/1d28a80b-64ac-4af0-bd02-36d9358dfc6b)
+   " alt="Project Banner">
     </a>
+
+
   <br />
 
   <div>
