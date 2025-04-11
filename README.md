@@ -1,18 +1,5 @@
-<div align="center">
-  <br />
-    <a href="https://github.com/BENIANAJUNIOR/Full-Stack-Uber-Clone-App/edit/main/README.md" target="_blank">
-      <img src="![Screenshot 2025-03-27 221756](https://github.com/user-attachments/assets/1d28a80b-64ac-4af0-bd02-36d9358dfc6b)
-   " alt="Project Banner">
-    </a>
 
-
-  <br />
-
-  <div>
-   <br />
-   
-   
-  </div>
+![uber clon copy](https://github.com/user-attachments/assets/9510b3ec-4f6b-4109-9d84-0b147bf7a1d2)
 
 
 <h3 align="center">Full Stack Uber Clone App</h3>
